@@ -4,6 +4,10 @@ Public URL: https://main.d1krv9yvfuee28.amplifyapp.com/api/hello
 
 Note that `AUTH_ORIGIN` is `undefined`.
 
+I am using the `aws-amplify` preset: https://github.com/lmiller1990/nuxt3-amplify/blob/8cb4dec0cce5bd665f32a3446de15dcbaeee9277/nuxt.config.ts#L4
+
+Works as expected on Lambda, this seems to be an issue with Amplify not adding environment variables when the server starts.
+
 Env variables:
 
 ![](./img1.png)
