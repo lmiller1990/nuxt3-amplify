@@ -2,6 +2,8 @@ My app: https://ap-southeast-2.console.aws.amazon.com/amplify/apps/d1krv9yvfuee2
 
 Public URL: https://main.d1krv9yvfuee28.amplifyapp.com/api/hello
 
+Note that `AUTH_ORIGIN` is `undefined`.
+
 Env variables:
 
 ![](./img1.png)
